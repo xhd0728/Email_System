@@ -1,0 +1,4 @@
+2021/12/16 17:30:3 program start!
+2021/12/16 17:30:6 process shutdown!
+2021/12/16 17:49:35 program start!
+2021/12/16 17:49:42 process shutdown!
